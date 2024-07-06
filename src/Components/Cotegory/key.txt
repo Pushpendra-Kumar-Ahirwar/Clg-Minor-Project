@@ -1,0 +1,26 @@
+https://newsapi.org/v2/top-headlines?country=in&category=general&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=in&category=sports&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=in&category=entertainmentl&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=in&category=bininess&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=in&category=science&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=cd332ba1257c494ca102b484afd10cbb
+
+
+US newz
+https://newsapi.org/v2/top-headlines?country=us&category=general&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=us&category=sports&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=us&category=entertainmentl&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=us&category=bininess&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=us&category=science&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=us&category=technology&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=us&category=health&apiKey=cd332ba1257c494ca102b484afd10cbb
+
+CANADA NEWZ 
+https://newsapi.org/v2/top-headlines?country=cn&category=general&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=cn&category=sports&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=cn&category=entertainmentl&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=cn&category=bininess&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=cn&category=science&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=cn&category=technology&apiKey=cd332ba1257c494ca102b484afd10cbb
+https://newsapi.org/v2/top-headlines?country=cn&category=health&apiKey=cd332ba1257c494ca102b484afd10cbb 

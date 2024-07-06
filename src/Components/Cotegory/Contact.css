@@ -1,0 +1,54 @@
+.contact{
+    width: 370px;
+    height: 400px;
+    background-color: #C8FFD4;
+    margin-left: 600px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+.firstname{
+    width: 125px;
+    /* height: 20px; */
+    padding: 9px;
+}
+.lastname{
+    width: 125px;
+    /* height: 20px; */
+    padding: 9px;
+}
+.email{
+    padding: 7px;
+    width: 276px;
+}
+.phone{
+    padding: 7px;
+    width: 276px;
+}
+.form-data{
+    margin: 20px;
+    position: relative;
+    top: 60px;
+    left: 20px;
+}
+.contact-button{
+    background-color: #B1AFFF;
+    padding: 8px;
+    width: 293px;
+    border: none;
+    margin-top: 20px;
+}
+.para2{
+    font-size: 15px;
+    margin-left: 15px;
+}
+.para{
+    font-size: 15px;
+    position: relative;
+    top: 40px;
+    left: 95px;
+}
+.heading{
+    position: relative;
+    top: 50px;
+    left: 110px;
+}
