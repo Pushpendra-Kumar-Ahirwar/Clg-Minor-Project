@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# This project based on Newz which show multiple newz according to category like entertainment, sport etc
+This is my minor project in my college in 6 sem
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
